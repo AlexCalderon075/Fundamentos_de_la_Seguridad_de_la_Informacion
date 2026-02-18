@@ -1,4 +1,4 @@
-## **Descripcion**
+ ## **Descripcion**
 Find the flag in the Python script![Download Python script](https://artifacts.picoctf.net/c/37/serpentine.py)
 ## **Solucion**
 Uso de comandos linux
